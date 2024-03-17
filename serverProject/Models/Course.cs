@@ -30,5 +30,8 @@
             this.study = study;
             this.image = image;
         }
+        public Course()
+        {
+        }
     }
 }
